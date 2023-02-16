@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-cv/static/css/main.073c9b0a.css",
+    "main.js": "/react-cv/static/js/main.c55683be.js",
+    "static/js/787.11baedba.chunk.js": "/react-cv/static/js/787.11baedba.chunk.js",
+    "static/media/serpent.jpg": "/react-cv/static/media/serpent.82725066199fc88a1e27.jpg",
+    "index.html": "/react-cv/index.html",
+    "main.073c9b0a.css.map": "/react-cv/static/css/main.073c9b0a.css.map",
+    "main.c55683be.js.map": "/react-cv/static/js/main.c55683be.js.map",
+    "787.11baedba.chunk.js.map": "/react-cv/static/js/787.11baedba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c55683be.js"
+  ]
+}
