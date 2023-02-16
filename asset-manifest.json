@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react-cv/static/css/main.073c9b0a.css",
-    "main.js": "/react-cv/static/js/main.c55683be.js",
+    "main.css": "/react-cv/static/css/main.28da33d1.css",
+    "main.js": "/react-cv/static/js/main.bfe381ab.js",
     "static/js/787.11baedba.chunk.js": "/react-cv/static/js/787.11baedba.chunk.js",
-    "static/media/serpent.jpg": "/react-cv/static/media/serpent.82725066199fc88a1e27.jpg",
+    "static/media/phenix.jpg": "/react-cv/static/media/phenix.ca29560163fb9311b346.jpg",
+    "static/media/sitecalcule.jpg": "/react-cv/static/media/sitecalcule.b06dbea7af5e1001fd46.jpg",
     "index.html": "/react-cv/index.html",
-    "main.073c9b0a.css.map": "/react-cv/static/css/main.073c9b0a.css.map",
-    "main.c55683be.js.map": "/react-cv/static/js/main.c55683be.js.map",
+    "main.28da33d1.css.map": "/react-cv/static/css/main.28da33d1.css.map",
+    "main.bfe381ab.js.map": "/react-cv/static/js/main.bfe381ab.js.map",
     "787.11baedba.chunk.js.map": "/react-cv/static/js/787.11baedba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c55683be.js"
+    "static/css/main.28da33d1.css",
+    "static/js/main.bfe381ab.js"
   ]
 }
